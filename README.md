@@ -163,4 +163,24 @@ Their licenses can be seen at `licenses/`, many thanks for their nice work!
   booktitle={IEEE Conference on Computer Vision and Pattern Recognition ({CVPR})},
   year={2023}
 }
+@ARTICLE{visualhull,
+  author={Laurentini, A.},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={The visual hull concept for silhouette-based image understanding}, 
+  year={1994},
+  volume={16},
+  number={2},
+  pages={150-162},
+  keywords={Image reconstruction;Object recognition;Shape;Surface reconstruction;Computer vision;Algorithm design and analysis;Face detection;Image recognition;Layout;Navigation},
+  doi={10.1109/34.273735}
+}
+@misc{han2023volumefeaturerenderingfast,
+      title={Volume Feature Rendering for Fast Neural Radiance Field Reconstruction}, 
+      author={Kang Han and Wei Xiang and Lu Yu},
+      year={2023},
+      eprint={2305.17916},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2305.17916}, 
+}
 ```
